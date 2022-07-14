@@ -41,7 +41,7 @@
     <main>
       <div class="about">
   <div class="profile">
-    <img class="selfie" alt="ChaeYeon Son" src="assets/img/zepeto.jpg" />
+    <img class="selfie" alt="Siwoong park" src="/assets/parksiwoong.PNG" />
     <div class="info">
       <div class="title">ChaeYeon Son</div>
       <div class="description">PHP web developer</div>

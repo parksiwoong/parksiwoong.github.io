@@ -17,7 +17,7 @@
   <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="16x16" href="/parksiwoong.PNG">
+  <link rel="icon" type="image/png" sizes="16x16" href="/blob/main/parksiwoong.PNG">
 
   <!-- Google Analytics -->
   
